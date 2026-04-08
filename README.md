@@ -2,14 +2,12 @@
 
 **`Estudante de Data Science`**
 
-Olá, me chamo Miguel! :D
-Sou estudante da área de Dados, com base em programação, bancos de dados e experiência administrativa. Busco oportunidade como Estagiário ou Analista de Dados Júnior, com foco em análise, organização e visualização de dados para apoio à tomada de decisão.
+Olá, me chamo Miguel!👋
+Sou movido pela curiosidade e aprendizado contínuo, com forte perfil analítico, pensamento crítico e comunicação eficaz. Tenho interesse em transformar dados em insights estratégicos que apoiem a tomada de decisão e gerem valor para negócios.
 
-Possuo base em programação (Python, Java, JavaScript, HTML, CSS) e banco de dados (MySQL). Atualmente estou iniciando meus estudos na área de dados, busco experiências práticas com Python, SQL, Power BI e conceitos de ETL, além de vivência em projetos profissionais envolvendo análise, organização e visualização de dados.
+Atualmente, estou direcionando minha carreira para a área de Dados, com experiência prática em Python, SQL e Power BI, além de conhecimentos em ETL e análise exploratória. Possuo também base em programação (Python, Java, JavaScript, HTML e CSS) e banco de dados (MySQL), o que me permite estruturar soluções eficientes para problemas reais.
 
-Desenvolvi projetos tecnológicos e científicos, incluindo iniciativas premiadas em feiras de ciências, o que fortaleceu minhas habilidades em trabalho em equipe, comunicação e resolução de problemas.
-
-Atualmente, busco uma oportunidade de estágio na área de Dados ou Tecnologia, onde eu possa aprender, contribuir com análises e evoluir profissionalmente.
+Desenvolvi projetos tecnológicos e científicos, incluindo iniciativas premiadas em feiras de ciências, o que fortaleceu minhas habilidades em trabalho em equipe, comunicação e resolução de problemas. Busco uma oportunidade de estágio em Dados para aplicar meus conhecimentos, aprender continuamente e evoluir profissionalmente.
 
 ---
 
