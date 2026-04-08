@@ -2,10 +2,10 @@
 
 **`Estudante de Data Science`**
 
-Olá, me chamo Miguel!👋
-Sou movido pela curiosidade e aprendizado contínuo, com forte perfil analítico, pensamento crítico e comunicação eficaz. Tenho interesse em transformar dados em insights estratégicos que apoiem a tomada de decisão e gerem valor para negócios.
+Olá, me chamo Miguel!👋<br>
+Sou movido pela curiosidade e aprendizado contínuo, com forte perfil analítico, pensamento crítico e comunicação eficaz. Tenho interesse em transformar dados em insights estratégicos que apoiem a tomada de decisão e gerem valor para negócios.<br>
 
-Atualmente, estou direcionando minha carreira para a área de Dados, com experiência prática em Python, SQL e Power BI, além de conhecimentos em ETL e análise exploratória. Possuo também base em programação (Python, Java, JavaScript, HTML e CSS) e banco de dados (MySQL), o que me permite estruturar soluções eficientes para problemas reais.
+Atualmente, estou direcionando minha carreira para a área de Dados, com experiência prática em Python, SQL e Power BI, além de conhecimentos em ETL e análise exploratória. Possuo também base em programação (Python, Java, JavaScript, HTML e CSS) e banco de dados (MySQL), o que me permite estruturar soluções eficientes para problemas reais.<br>
 
 Desenvolvi projetos tecnológicos e científicos, incluindo iniciativas premiadas em feiras de ciências, o que fortaleceu minhas habilidades em trabalho em equipe, comunicação e resolução de problemas. Busco uma oportunidade de estágio em Dados para aplicar meus conhecimentos, aprender continuamente e evoluir profissionalmente.
 
